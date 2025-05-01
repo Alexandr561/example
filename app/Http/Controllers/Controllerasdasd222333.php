@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-abstract class Controllerasdasd222
+abstract class Controllerasdasd222333
 {
     //
 }
